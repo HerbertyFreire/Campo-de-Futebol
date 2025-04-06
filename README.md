@@ -11,7 +11,6 @@ Projeto feito em Python utilizando OpenGL e o algoritmo de Bresenham para desenh
 - A bola retorna ao centro após o gol.
 - Linhas de **gol** desenhadas com Bresenham.
 - Exibição do placar usando **texto OpenGL (GLUT)**.
-- Preparado para adição de jogadores modelados em ferramentas como Blender.
 
   ## 🧠 Controles
 
@@ -20,7 +19,6 @@ Projeto feito em Python utilizando OpenGL e o algoritmo de Bresenham para desenh
  - ↑ ou W	Move a bola para cima
  - ↓ ou S	Move a bola para baixo
  - ESC	Sai do jogo (via botão de fechar)
-
 
 ## 📦 Requisitos
 
