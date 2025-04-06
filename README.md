@@ -15,11 +15,11 @@ Projeto feito em Python utilizando OpenGL e o algoritmo de Bresenham para desenh
 
   ## 🧠 Controles
 Tecla	Ação
-← ou A	Move a bola para a esquerda
-→ ou D	Move a bola para a direita
-↑ ou W	Move a bola para cima
-↓ ou S	Move a bola para baixo
-ESC	Sai do jogo (via botão de fechar)
+ - ← ou A	Move a bola para a esquerda
+ - → ou D	Move a bola para a direita
+ - ↑ ou W	Move a bola para cima
+ - ↓ ou S	Move a bola para baixo
+ - ESC	Sai do jogo (via botão de fechar)
 
 
 ## 📦 Requisitos
