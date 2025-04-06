@@ -14,7 +14,7 @@ Projeto feito em Python utilizando OpenGL e o algoritmo de Bresenham para desenh
 - Preparado para adição de jogadores modelados em ferramentas como Blender.
 
   ## 🧠 Controles
-Tecla	Ação
+
  - ← ou A	Move a bola para a esquerda
  - → ou D	Move a bola para a direita
  - ↑ ou W	Move a bola para cima
