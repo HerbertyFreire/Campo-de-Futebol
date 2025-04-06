@@ -1,34 +1,42 @@
-# ⚽ Campo de Futebol em OpenGL com Bresenham
+## ⚽ Campo de Futebol em OpenGL com Python
 
-Projeto feito em Python utilizando OpenGL e o algoritmo de Bresenham para desenhar um campo de futebol com movimentação de bola, placar e controle por teclado.
+## 📝 Resumo
 
-## ✨ Funcionalidades
+Este projeto implementa um campo de futebol simples utilizando Python com as bibliotecas PyOpenGL e pygame. A aplicação renderiza um campo com dois jogadores representados por modelos simples e permite movimentar a bola com o teclado. Ao marcar um gol (bola ultrapassando a linha do gol), o placar é atualizado e a bola retorna ao centro do campo.
 
-- Desenho do campo de futebol utilizando o algoritmo de **Bresenham** para retas e circunferências.
-- **Bola** desenhada com circunferência de Bresenham.
-- Movimento da bola com **teclas direcionais (↑ ↓ ← →)** e também com **WASD**.
-- **Placar** atualizado automaticamente quando a bola entra no gol.
-- A bola retorna ao centro após o gol.
-- Linhas de **gol** desenhadas com Bresenham.
-- Exibição do placar usando **texto OpenGL (GLUT)**.
+---
 
-  ## 🧠 Controles
+## 🚀 Funcionalidades
 
- - ← ou A	Move a bola para a esquerda
- - → ou D	Move a bola para a direita
- - ↑ ou W	Move a bola para cima
- - ↓ ou S	Move a bola para baixo
- - ESC	Sai do jogo (via botão de fechar)
+- Renderização de campo de futebol com OpenGL
+- Bola movimentável via teclado
+- Detecção de gol e atualização automática do placar
+- Reinício da bola no centro após o gol
+- Dois jogadores fixos em campo (um de cada lado)
+- Compatível com sistemas que tenham Python instalado
+
+---
+
+## 🎮 Controles
+
+| Tecla        | Ação                        |
+|--------------|-----------------------------|
+| ← ou A       | Move a bola para a esquerda |
+| → ou D       | Move a bola para a direita  |
+| ↑ ou W       | Move a bola para cima       |
+| ↓ ou S       | Move a bola para baixo      |
+
+---
 
 ## 📦 Requisitos
 
-- Python 3.x
-- Pygame
-- PyOpenGL
+- Python 3.10 ou superior
+- Pip (gerenciador de pacotes do Python)
 
-## 🧪 Instalação
+### Bibliotecas Python
 
-Instale as dependências com pip:
+Execute o seguinte comando para instalar as dependências:
 
 ```bash
-pip install pygame PyOpenGL PyOpenGL_accelerate
+pip install pygame PyOpenGL
+
