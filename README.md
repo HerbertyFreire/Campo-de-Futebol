@@ -30,8 +30,9 @@ Este projeto implementa um campo de futebol simples utilizando Python com as bib
 
 ## 📦 Requisitos
 
-- Python 3.10 ou superior
-- Pip (gerenciador de pacotes do Python)
+- Python 3.x
+- Pygame
+- PyOpenGL
 
 ### Bibliotecas Python
 
