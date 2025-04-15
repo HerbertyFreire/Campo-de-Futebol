@@ -3,7 +3,7 @@
 
 Participantes	                       |Links para os Perfis
 -----------------------------------  |  ------------------                                   
-Matheus Lopes dos Santos             |
+Matheus Lopes dos Santos             |https://github.com/matheuslopes-eu
 José Herberty de Oliveira Freire     |https://github.com/HerbertyFreire
 
 ## 📝 Resumo
