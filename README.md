@@ -18,7 +18,6 @@ Este projeto implementa um campo de futebol simples utilizando Python com as bib
 - Bola movimentável via teclado
 - Detecção de gol e atualização automática do placar
 - Reinício da bola no centro após o gol
-- Dois jogadores fixos em campo (um de cada lado)
 - Compatível com sistemas que tenham Python instalado
 
 ---
