@@ -106,7 +106,7 @@ def checar_gol():
 def main():
     pygame.init()
     pygame.display.set_mode((WIDTH, HEIGHT), DOUBLEBUF | OPENGL)
-    gluOrtho2D(0, WIDTH, HEIGHT, 0)  # Coordenadas 2D (topo é zero)
+    gluOrtho2D(0, WIDTH, HEIGHT, 0)  
     glutInit()
 
     clock = pygame.time.Clock()
@@ -142,7 +142,7 @@ def main():
 
         # Desenhar placar
         placar = f"Azul {goals['azul']} x {goals['vermelho']} Vermelho"
-        text_width = len(placar) * 9  # estimativa da largura
+        text_width = len(placar) * 9  
         desenhar_texto((WIDTH - text_width) // 2, 30, placar)
 
         pygame.display.flip()
