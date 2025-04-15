@@ -1,5 +1,11 @@
 ## ⚽ Campo de Futebol em OpenGL com Python
 
+
+Participantes	                       |Links para os Perfis
+-----------------------------------  |  ------------------                                   
+Matheus Lopes dos Santos             |
+José Herberty de Oliveira Freire     |https://github.com/HerbertyFreire
+
 ## 📝 Resumo
 
 Este projeto implementa um campo de futebol simples utilizando Python com as bibliotecas PyOpenGL e pygame. A aplicação renderiza um campo com dois jogadores representados por modelos simples e permite movimentar a bola com o teclado. Ao marcar um gol (bola ultrapassando a linha do gol), o placar é atualizado e a bola retorna ao centro do campo.
